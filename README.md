@@ -16,4 +16,4 @@ I am a passionate software developer, who fell in love with code.
 ## Info
 📝 **My resume:** [Notion](https://www.notion.so/maksimmitrofanov/Maksim-Mitrofanov-Resume-98e66952508c420da917a3f2d547751a)
 
-📨 **Connect with me**: keyseymiroff@gmail.com
+📨 **Contact**: keyseymiroff@gmail.com
