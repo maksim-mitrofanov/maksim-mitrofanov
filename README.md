@@ -21,7 +21,7 @@
 | :---   |  :---:    |
 | Web parcing and Networking [Interprete](https://github.com/maksim-mitrofanov/Interprete)  |   Done ✅  |
 | SwiftUI real world application: [Calculator](https://github.com/maksim-mitrofanov/Calculator) | Done ✅ |
-| Concurrency in Swift | Studying 📚 |
+| Modern Concurrency in Swift | Studying 📚 |
 | Combine in Swift | Later ⏱️ |
 | CoreData real world application: [Simplissimo](https://github.com/maksim-mitrofanov/Simplissimo) | Writing 💻 |
 | Advanced Swift | Later ⏱️ |
