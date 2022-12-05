@@ -22,6 +22,6 @@
 | Web parcing and Networking [Interprete](https://github.com/maksim-mitrofanov/Interprete)  |   Done ✅  |
 | SwiftUI real world application: [Calculator](https://github.com/maksim-mitrofanov/Calculator) | Done ✅ |
 | Async / await basics | Done ✅ |
-| Combine in Swift | Later ⏱️ |
 | CoreData real world application: [Simplissimo](https://github.com/maksim-mitrofanov/Simplissimo) | Writing 💻 |
+| Combine in Swift | Later ⏱️ |
 | Advanced Swift | Later ⏱️ |
