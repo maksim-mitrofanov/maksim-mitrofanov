@@ -23,5 +23,4 @@
 | SwiftUI real world application: [Calculator](https://github.com/maksim-mitrofanov/Calculator) | Done ✅ |
 | Async / await basics | Done ✅ |
 | CoreData real world application: [Simplissimo](https://github.com/maksim-mitrofanov/Simplissimo) | Writing 💻 |
-| Combine in Swift | Later ⏱️ |
-| Advanced Swift | Later ⏱️ |
+| Stanford CS193p Developing apps with UIKit | [Repo](https://github.com/maksim-mitrofanov/CS193p-UIKit)  |
