@@ -25,7 +25,7 @@
 |                       | [UIKit Apprentice book](https://github.com/maksim-mitrofanov/UIKit-Apprentice)                                    | ⏱️ Work in Progress | 
 |                       | [Level Up in Auto Layout course](https://github.com/maksim-mitrofanov/Level-Up-in-Auto-Layout)                      | ⏱️ Work in Progress | 
 
-### Pet Projects
+## Pet Projects
 | Repo                                                                     | Skills                                                             | Progress           | 
 | :---                                                                     |  :---                                                              | :---               |
 | [Calculator](https://github.com/maksim-mitrofanov/Calculator)            |  SwiftUI, UserDefaults, Multiplatform                              | Done ✅            |
