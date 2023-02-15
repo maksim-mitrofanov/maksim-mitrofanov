@@ -10,13 +10,9 @@
 - Xcode
 - Figma
 
-## Info
-📝 **Resume:** [Notion](https://www.notion.so/maksimmitrofanov/Maksim-Mitrofanov-Resume-98e66952508c420da917a3f2d547751a)
+<br />
 
-📨 **Contact**: keyseymiroff@gmail.com
-
-
-### Updated Roadmap (updating)
+## Developer Roadmap
 | Subject               | Repo                                                                                                         | Progress            |
 | :---                  |  :---                                                                                                        | :---                |
 | **Swift Language**    | [Swift Apprentice Book](https://github.com/maksim-mitrofanov/Swift-Apprentice)                                    | ⏱️ Work in Progress | 
@@ -37,4 +33,7 @@
 | [Simplissimo](https://github.com/maksim-mitrofanov/Simplissimo)          |  Data Persistence with JSON                                        | Writing 💻         |            |
 
 
+## Info
+📝 **Resume:** [Notion](https://www.notion.so/maksimmitrofanov/Maksim-Mitrofanov-Resume-98e66952508c420da917a3f2d547751a)
 
+📨 **Contact**: keyseymiroff@gmail.com
