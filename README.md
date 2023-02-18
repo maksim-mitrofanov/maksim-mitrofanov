@@ -13,17 +13,15 @@
 <br />
 
 ## Developer Roadmap
-| Subject               | Repo                                                                                                         | Progress            |
-| :---                  |  :---                                                                                                        | :---                |
-| **Swift Language**    | [Swift Apprentice Book](https://github.com/maksim-mitrofanov/Swift-Apprentice)                                    | ⏱️ Work in Progress | 
-|                       | [Expert Swift Book](https://github.com/maksim-mitrofanov/Expert-Swift)                                            | ⏱️ Work in Progress | 
-|                       |                                                                                                              |                     | 
-| **SwiftUI**           | [Stanford CS193p SwiftUI course](https://github.com/maksim-mitrofanov/CS193p-SwiftUI)                               | ⏱️ Work in Progress | 
-|                       | [SwiftUI by Tutorials book](https://github.com/maksim-mitrofanov/SwiftUI-by-Tutorials)                            | ⏱️ Work in Progress | 
-|                       |                                                                                                              |                     | 
-| **UIKit**             | [Stanford CS193p UIKit course](https://github.com/maksim-mitrofanov/CS193p-UIKit)                                   | ⏱️ Work in Progress | 
-|                       | [UIKit Apprentice book](https://github.com/maksim-mitrofanov/UIKit-Apprentice)                                    | ⏱️ Work in Progress | 
-|                       | [Level Up in Auto Layout course](https://github.com/maksim-mitrofanov/Level-Up-in-Auto-Layout)                      | ⏱️ Work in Progress | 
+| Subject               | Repo                                                                                                                                | Progress            |
+| :---                  |  :---                                                                                                                               | :---                |
+| **Swift Language**    | [Swift Apprentice Book](https://github.com/maksim-mitrofanov/Swift-Apprentice)                                                      | ⏱️ Work in Progress | 
+|                                                | [Expert Swift Book](https://github.com/maksim-mitrofanov/Expert-Swift)                                                              | ⏱️ Work in Progress | 
+|                                                |                                                                                                                                     |                     | 
+| **Developing iOS apps with SwiftUI**           | [Stanford CS193p SwiftUI course](https://github.com/maksim-mitrofanov/CS193p-SwiftUI)                      | ⏱️ Work in Progress | 
+|                                                |                                                                                                                                     |                     | 
+| **Developing iOS apps with UIKit**             | [Stanford CS193p UIKit course](https://github.com/maksim-mitrofanov/CS193p-UIKit)                                   | 💻 Currently Working On | 
+|                                                | [Level Up in Auto Layout course](https://github.com/maksim-mitrofanov/Level-Up-in-Auto-Layout)                      | ⏱️ Work in Progress | 
 
 ## Pet Projects
 | Repo                                                                     | Skills                                                             | Progress           | 
