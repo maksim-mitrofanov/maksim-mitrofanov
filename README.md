@@ -18,7 +18,7 @@
 | **UIKit**      | [Stanford CS193p UIKit](https://github.com/maksim-mitrofanov/CS193p-UIKit)                       | 💻 Currently Working On     | 
 |                | [Level Up in Auto Layout](https://github.com/maksim-mitrofanov/Level-Up-in-Auto-Layout)          | ⏱️ Work in Progress         | 
 
-## Pet Projects
+## Projects
 | Repo                                                                     | Skills                                                             | Progress           | 
 | :---                                                                     |  :---                                                              | :---               |
 | [Calculator](https://github.com/maksim-mitrofanov/Calculator)            |  SwiftUI, UserDefaults, Multiplatform                              | Done ✅            |
