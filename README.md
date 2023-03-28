@@ -15,7 +15,7 @@
 
 ## Developer Roadmap
 | Course                                      | Repo                                                                          | Progress                    |   
-| :---                                        | :---:                                                                         | :---                        | 
+| :---                                        | :---:                                                                         | :---:                        | 
 | **Stanford CS193 UIKit**                    | [CS193p](https://github.com/maksim-mitrofanov/CS193p-UIKit)                   |  Finished ✅    | 
 | **Yandex iOS School**                       | [Yandex iOS](https://github.com/maksim-mitrofanov/Yandex-iOS-School)          |  Work in Progress ⏱️        | 
 | **Swift Arcade: UIKit**                     | [Swift Arcade](https://github.com/maksim-mitrofanov/Swift-Arcade-UIKit)       |   Work in Progress ⏱️       |
