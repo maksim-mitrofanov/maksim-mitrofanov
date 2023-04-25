@@ -32,6 +32,6 @@
 <br />
 
 ## Info
-📝 **Resume:** [Notion](https://www.notion.so/maksimmitrofanov/Maksim-Mitrofanov-Resume-98e66952508c420da917a3f2d547751a)
+📝 **Resume:** [LinkedIn](https://www.linkedin.com/in/maksim-mitrofanov-932887256/overlay/1635524380320/single-media-viewer/?profileId=ACoAAD8iPHYBa8qTWZ3MJqa1wnoQUsoRS5bazcc)
 
 📨 **Contact**: keyseymiroff@gmail.com
