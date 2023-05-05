@@ -14,8 +14,8 @@
 ## Developer Roadmap
 | Course                                      | Repo                                                                          | Progress                    |   
 | :---                                        | :---:                                                                         | :---:                        | 
-| **Stanford: CS193 UIKit**                   | [CS193p](https://github.com/maksim-mitrofanov/CS193p-UIKit)                   |  Finished  ✅    | 
-| **Stanford: CS193 SwiftUI**                 | [CS193p](https://github.com/maksim-mitrofanov/CS193p-SwiftUI)                 |  In Progress ⚠️   | 
+| **Stanford: CS193 UIKit**                   | [CS193p UIKit](https://github.com/maksim-mitrofanov/CS193p-UIKit)                   |  Finished  ✅    | 
+| **Stanford: CS193 SwiftUI**                 | [CS193p SwiftUI](https://github.com/maksim-mitrofanov/CS193p-SwiftUI)                 |  In Progress ⚠️   | 
 
 
 ## Projects
