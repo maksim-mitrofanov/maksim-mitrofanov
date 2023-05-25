@@ -23,6 +23,6 @@
 | [Interprete](https://github.com/maksim-mitrofanov/Interprete)            |  Web Scraping with SwiftSoup, Multithreading                       | Done ✅            |
 
 ## Info
-📰 [**LinkedIn**](https://www.linkedin.com/in/maksim-mitrofanov-932887256/)
+📰 [**LinkedIn**](https://www.linkedin.com/in/maksim-mitrofanov-iOS/)
 
 📨 **Contact**: keyseymiroff@gmail.com
